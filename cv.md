@@ -45,5 +45,5 @@ Not yet...
 ## Languages
 
 * German - i read and understand with dictionary. i am a german teacher, but have not practice a long time
-* English - i use Duolingo every day and want speack English very well
+* English - i use Duolingo every day and want speak English very well
 
