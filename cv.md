@@ -5,6 +5,7 @@
 
 ---
 ## Contact information
+
 tel: +7 (920) 351 61 17
 
 email: iegolubev86@gmail.com
@@ -16,6 +17,7 @@ I am 36 and i have a small business. Now i want to travel all the world and to b
 
 ---
 ## Skills
+
 * 3 kids
 
 ---
@@ -26,10 +28,20 @@ Not yet...
 ---
 ## Expiriense
 
+* i am an Engineer from 2003 
+* soft skills
+* Word
+* Exel
+* Paint
+* AutoCad
 
+---
 ## Courses
-* [Figma from scratch](https://www.youtube.com/watch?v=SWBUS99Hlfc&list=PLrsq-o51mMFGdWoz-ETc4fTgzVJKPrEzI)
 
+* [Figma from scratch](https://www.youtube.com/watch?v=SWBUS99Hlfc&list=PLrsq-o51mMFGdWoz-ETc4fTgzVJKPrEzI)
+* [The Rolling scopes school](https://rs.school/) - in the process
+
+---
 ## Languages
 
 * German - i read and understand with dictionary. i am a german teacher, but have not practice a long time
